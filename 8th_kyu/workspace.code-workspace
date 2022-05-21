@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../Downloads/class12-materials/background-picker"
+		},
+		{
+			"path": "../../../Downloads/class14-materials/class-weekend-boring"
+		},
+		{
+			"path": "../../../Downloads/class14-materials/temperature-converter"
+		},
+		{
+			"path": "../../../Downloads/html5up-helios"
+		},
+		{
+			"path": "../../../Downloads/html5up-dimension"
+		},
+		{
+			"path": "../../../Downloads/class27-materials/api-template"
+		},
+		{
+			"path": "../../../Downloads/class28-materials/dnd"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Projects"
+	}
+}
