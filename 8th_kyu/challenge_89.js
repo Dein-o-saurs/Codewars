@@ -2,7 +2,6 @@
 
 // Note: Empty arrays should return 0.
 
-
 function findAverage(array) {
-    return array.reduce((a, b) => a + b) / array.length
+    return array.length > 0 ? array.reduce((a, b) => a + b) / array.length : 0
   }
