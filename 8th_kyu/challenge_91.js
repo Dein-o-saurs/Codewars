@@ -13,3 +13,7 @@ var max = function(list){
     
     return list.sort((a, b) => a - b)[list.length-1];
 }
+
+
+const min = (list) => Math.min(...list);
+const max = (list) => Math.max(...list);

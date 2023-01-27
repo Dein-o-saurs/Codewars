@@ -1,0 +1,16 @@
+{
+    "folders": [
+        {
+            "path": "../.."
+        },
+        {
+            "path": "../../../Downloads/class38-materials/express-api"
+        },
+        {
+            "path": "../../.."
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "Projects"
+    }
+}
